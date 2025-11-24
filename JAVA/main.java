@@ -1,13 +1,13 @@
-public class main{
-    public static void main(string[] args){
-        string nama = "fahri";
+public class Main {
+    public static void main(String[] args) {
+        String nama = "fahri";
         int umur = 19;
         double tinggi = 177.5;
         boolean aktif = true;
 
-        system.out.println("Nama: "+nama);
-        system.out.println("Umur: "+umur);
-        system.out.println("Tinggi: "+tinggi);
-        system.out.println("Status aktif: "+aktif);
+        System.out.println("Nama: " + nama);
+        System.out.println("Umur: " + umur);
+        System.out.println("Tinggi: " + tinggi);
+        System.out.println("Status aktif: " + aktif);
     }
 }

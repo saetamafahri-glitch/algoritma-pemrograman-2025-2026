@@ -1,23 +1,15 @@
 {
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
     "configurations": [
         {
             "type": "java",
-            "name": "Main",
+            "name": "Kasir",
             "request": "launch",
-            "mainClass": "Main",
+            "mainClass": "Kasir",
             "projectName": "algoritma-pemrograman-2025-2026_3346556d"
-        },
-        {
-            "name": "(Windows) Launch",
-            "type": "cppvsdbg",
-            "request": "launch",
-            "program": "enter program name, for example ${workspaceFolder}/a.exe",
-            "args": [],
-            "stopAtEntry": false,
-            "cwd": "${fileDirname}",
-            "environment": [],
-            "console": "externalTerminal"
         }
-    ],
-    "version": "2.0.0"
+    ]
 }
