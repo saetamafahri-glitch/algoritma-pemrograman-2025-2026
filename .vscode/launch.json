@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ATM",
+            "request": "launch",
+            "mainClass": "ATM",
+            "projectName": "algoritma-pemrograman-2025-2026_3346556d"
+        },
+        {
+            "type": "java",
             "name": "Kasir",
             "request": "launch",
             "mainClass": "Kasir",
